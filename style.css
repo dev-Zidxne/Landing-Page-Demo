@@ -1,0 +1,15 @@
+header {
+    
+    background-color: #1f2937;
+padding: 50px;
+
+}
+
+button {
+    color: white;
+    background-color: #3882f6
+}
+
+.links {
+    display: flex;
+}
