@@ -160,8 +160,7 @@
     background-color: #e5e7eb;
     
     padding: 125px;
-    justify-content: center;
-align-content: center;
+    align-content: center;
 }
 
 .oop {
@@ -185,4 +184,28 @@ justify-content: center;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
 }
+ 
+.section {
     
+    background-color: white;
+    padding: 125px;
+}
+
+.container-box {
+   
+    background-color: #3b82f6;
+    color: white;
+    padding: 40px;
+    font-family: 'Roboto', sans-serif; 
+
+}
+
+
+
+.bttn-2 {
+    background-color: #3a84f1;
+    border-color: white;
+    color: white;
+    padding: 2px 20px;
+    border-radius: 5px;
+}
